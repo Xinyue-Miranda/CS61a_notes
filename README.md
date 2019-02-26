@@ -6,10 +6,15 @@ This repository is for study use only. All rights to the original author.
 ## Update
 2018/12/22 - Week 2 videos finished
 
-2018/01/13 - Week 3 videos finished 
+2019/01/13 - Week 3 videos finished 
 
-2018/02/22 - Week 4 videos finished
+2019/02/22 - Week 4 videos finished
 
-2018/02/23 - Week 5 Lec11 Containers finished
+2019/02/23 - Week 5 Lec11 Containers finished
 
-2018/02/24 - Week 5 Lec12 Trees -- half finished
+2019/02/24 - Week 5 Lec12 Trees -- half finished
+2019/02/25 - Week 5 Lec12 Trees - videos finished (Tree structure is sooooo interesting! as well as useful lol)
+
+
+
+
