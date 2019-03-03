@@ -10,12 +10,15 @@ This repository is for study use only. All rights to the original author.
 
 2019/02/22 - Week 4 videos finished
 
-2019/02/23 - Week 5 Lec10 Containers finished
+2019/02/23 - Week 5 Lec11 Containers finished
 
-2019/02/24 - Week 5 Lec11 Trees -- half finished
+2019/02/24 - Week 5 Lec12 Trees -- half finished
 
-2019/02/25 - Week 5 Lec11 Trees -- videos finished <br> (Tree structure is sooooo interesting!!! as well as useful lol)
+2019/02/25 - Week 5 Lec12 Trees -- videos finished <br> (Tree structure is sooooo interesting!!! as well as useful lol)
 
-2019/02/26 - Week 5 Lec12 Mutable Values -- video finished, notebook half-finished
+2019/02/26 - Week 5 Lec13 Mutable Values -- video finished, notebook half-finished
 
+2019/03/02 - Week 5 Lec13 Mutable Values -- finished
+
+2019/03/03 - Week 6 Lec14 Mutable Functions -- half-finished
 
