@@ -24,3 +24,5 @@ This repository is for study use only. All rights to the original author.
 
 2019/03/04 - Week 6 Lec14 Mutable Functions -- finished
 
+2019/03/05 - Week 6 Lec15 Objects -- finished
+
