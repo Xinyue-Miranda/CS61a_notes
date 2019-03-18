@@ -28,3 +28,5 @@ This repository is for study use only. All rights to the original author.
 
 2019/03/09 - Week 7 Lec16 Inheritance -- finished
 (Inheritance is so interesting! Difficult though :( )
+
+2019/03/17 - Week 7 Lec17 Representation -- finished
